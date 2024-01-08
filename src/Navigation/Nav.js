@@ -1,13 +1,18 @@
 import { FiHeart } from "react-icons/fi";
 import { AiOutlineShoppingCart, AiOutlineUserAdd } from "react-icons/ai";
 import "./Nav.css";
-
-export default function Nav({ handleInputChange }) {
+import Logo from "../Assets/logo1.png";
+import { Link } from "react-router-dom";
+export default function Nav() {
   return (
     <nav>
+      <div className="logo-container">
+        <Link to="/">
+          <img src={Logo} alt="logo" />
+        </Link>
+      </div>
       <div className="navbar-container">
         <input
-          onChange={handleInputChange}
           type="text"
           className="search-input"
           placeholder="Enter the product."

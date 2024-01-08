@@ -1,0 +1,40 @@
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #f5f5f5;
+    padding: 20px;
+    
+    margin-top: auto;
+    bottom: 0;
+  }
+  
+  .footer-container .social {
+    text-align: center;
+  }
+  
+  .logo {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #333;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  
+  .brief {
+    margin-top: 0;
+    color: #666;
+    font-size: 14px;
+  }
+  
+  .social-media {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    color: #333;
+  }
+  
+  /* Add styling for other sections as needed */
+  

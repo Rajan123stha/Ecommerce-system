@@ -1,14 +1,21 @@
 import { AiFillStar } from "react-icons/ai";
-import Quiling1 from "./Framed Quiling.png";
-import Quiling2 from "./Quiling Framed2.png";
-import Stone1 from "./Quiling1.jpg";
-import Mandala1 from "./Framed Mandala Art1.jpg";
-import Mandala2 from "./Mandala Art1.jpg";
+
 import Painting1 from "./Flower painting1.jpg";
-import Bottle1 from "./Butterfly_bottle_art.png";
+import Bottle1 from "./Butterfly bottle art1.jpg";
 import Bottle2 from "./Flat bottom bottle art.jpg";
 import Bottle3 from "./Painted botttle art.jpg";
+import Quiling1 from "./Named frame quiling(Framed) Letter R.jpg";
+import Quiling2 from "./Named quiling(Not framed)Letter N.jpg";
+import Quiling3 from "./Named quiling(not framed) E.jpg";
+import Mandala2 from "./Mandala Art1(Not framed).jpg";
+import Mandala3 from "./Mandala Art(Not framed) Yellow.jpg";
+import Mandala1 from "./Framed Mandala Art1.jpg";
+import Mandala4 from "./Mandala Art(Not framed).jpg";
+import Mandala5 from "./mandala art2.jpg";
+import Stone1 from "./Quiling1.jpg";
+
 const data = [
+  //bottle art
   {
     img: Bottle1,
     pId: "b1",
@@ -39,26 +46,40 @@ const data = [
     newPrice: "400",
     category: "bottle",
   },
+
+  //quilings
   {
     img: Quiling1,
     pId: "q1",
-    title: "Quiling 1",
+    title: "Quiling Art(Framed) Letter R",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(120 reviews)",
     prevPrice: "1000",
     newPrice: "900",
     category: "quiling",
   },
+
+  {
+    img: Quiling3,
+    pId: "q3",
+    title: "Quiling Art(Not Framed) Letter E",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(169 reviews)",
+    prevPrice: "800",
+    newPrice: "650",
+    category: "quiling",
+  },
   {
     img: Quiling2,
     pId: "q2",
-    title: "Quiling 2",
+    title: "Quiling Art(Not Framed) Letter N",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(129 reviews)",
     prevPrice: "900",
     newPrice: "800",
     category: "quiling",
   },
+  //stone art
   {
     img: Stone1,
     pId: "s1",
@@ -68,6 +89,17 @@ const data = [
     prevPrice: "1000",
     newPrice: "900",
     category: "stone",
+  },
+  //mandala
+  {
+    img: Mandala3,
+    pId: "m3",
+    title: "Mandala Art(Not framed) yellow",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(12 reviews)",
+    prevPrice: "400",
+    newPrice: "300",
+    category: "mandala",
   },
   {
     img: Mandala1,
@@ -87,6 +119,27 @@ const data = [
     reviews: "(129 reviews)",
     prevPrice: "900",
     newPrice: "800",
+    category: "mandala",
+  },
+
+  {
+    img: Mandala4,
+    pId: "m4",
+    title: "Mandala Art(Not framed)",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(120 reviews)",
+    prevPrice: "350",
+    newPrice: "200",
+    category: "mandala",
+  },
+  {
+    img: Mandala5,
+    pId: "m5",
+    title: "Mandala Art(Not framed) flower",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(100 reviews)",
+    prevPrice: "350",
+    newPrice: "200",
     category: "mandala",
   },
   {
