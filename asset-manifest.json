@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-system/static/css/main.5e8aad03.css",
+    "main.js": "/Ecommerce-system/static/js/main.04f0ddfe.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Ecommerce-system/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/mandala art2.jpg": "/Ecommerce-system/static/media/mandala art2.a4838281a8e886e80550.jpg",
+    "static/media/Mandala Art(Not framed).jpg": "/Ecommerce-system/static/media/Mandala Art(Not framed).1c1f52d0e58c3251e465.jpg",
+    "static/media/Named quiling(not framed) E.jpg": "/Ecommerce-system/static/media/Named quiling(not framed) E.cc149ba19720e2adae50.jpg",
+    "static/media/Mandala Art1(Not framed).jpg": "/Ecommerce-system/static/media/Mandala Art1(Not framed).c9215d5668aa2d1732a3.jpg",
+    "static/media/Mandala Art(Not framed) Yellow.jpg": "/Ecommerce-system/static/media/Mandala Art(Not framed) Yellow.aa5a45ad86ba38cfc483.jpg",
+    "static/media/B-27.jpg": "/Ecommerce-system/static/media/B-27.552cbeb3fd6d9e578f04.jpg",
+    "static/media/Painted botttle art.jpg": "/Ecommerce-system/static/media/Painted botttle art.5915abc107986d91e635.jpg",
+    "static/media/Butterfly bottle art1.jpg": "/Ecommerce-system/static/media/Butterfly bottle art1.ef060bc5e19e8b457df3.jpg",
+    "static/media/Named quiling(Not framed)Letter N.jpg": "/Ecommerce-system/static/media/Named quiling(Not framed)Letter N.6bee4036e82076626276.jpg",
+    "static/media/Flat bottom bottle art.jpg": "/Ecommerce-system/static/media/Flat bottom bottle art.71c7203e05c9c27e79c0.jpg",
+    "static/media/Quiling1.jpg": "/Ecommerce-system/static/media/Quiling1.82a1775b69758c572727.jpg",
+    "static/media/Flower painting2.jpg": "/Ecommerce-system/static/media/Flower painting2.0c0095184eea4be29df9.jpg",
+    "static/media/Flower painting1.jpg": "/Ecommerce-system/static/media/Flower painting1.37d792d65d5fabca1fdb.jpg",
+    "static/media/Framed Mandala Art1.jpg": "/Ecommerce-system/static/media/Framed Mandala Art1.9003b74f4a62147136f7.jpg",
+    "static/media/Named frame quiling(Framed) Letter R.jpg": "/Ecommerce-system/static/media/Named frame quiling(Framed) Letter R.00a19d4cea87699fc719.jpg",
+    "static/media/logo1.png": "/Ecommerce-system/static/media/logo1.1d18db68d022e1fcbd20.png",
+    "index.html": "/Ecommerce-system/index.html",
+    "main.5e8aad03.css.map": "/Ecommerce-system/static/css/main.5e8aad03.css.map",
+    "main.04f0ddfe.js.map": "/Ecommerce-system/static/js/main.04f0ddfe.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Ecommerce-system/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8aad03.css",
+    "static/js/main.04f0ddfe.js"
+  ]
+}
