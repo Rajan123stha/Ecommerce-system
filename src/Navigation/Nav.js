@@ -19,15 +19,15 @@ export default function Nav() {
         />
       </div>
       <div className="profile-container">
-        <a href="#">
+        <Link to="/wishList">
           <FiHeart className="nav-icons" />
-        </a>
-        <a href="#">
+        </Link>
+        <Link to="/cart">
           <AiOutlineShoppingCart className="nav-icons" />
-        </a>
-        <a href="#">
+        </Link>
+        <Link to="/login">
           <AiOutlineUserAdd className="nav-icons" />
-        </a>
+        </Link>
       </div>
     </nav>
   );
