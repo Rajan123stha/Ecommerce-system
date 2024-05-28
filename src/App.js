@@ -13,12 +13,13 @@ import Checkout from "./Page/Checkout/Checkout";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/Ecommerce-system">
         <div className="app-container">
           <Navigation />
 
           <Routes>
             <Route exact path="/" element={<Recomended />} />
+            <Route exact path="/Ecommeerce-system" element={<Recomended />} />
             <Route exact path="/cart" element={<Cart />} />
             <Route exact path="/wishlist" element={<WishListPage />} />
 
